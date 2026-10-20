@@ -5,7 +5,7 @@ lang: en
 
 # Ludora
 
-A pocket arcade of classic single-player puzzles: Sudoku, Cascade, Lantern, Solitaire and Fusion.
+A pocket arcade of six classic single-player puzzles: Sudoku, Mahjong, Cascade, Lantern, Solitaire and Fusion.
 
 - [Privacy policy (English)](privacy)
 - [Política de privacidad (español)](privacidad)
