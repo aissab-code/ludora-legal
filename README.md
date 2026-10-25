@@ -1,3 +1,3 @@
-Public legal pages for the Ludora app, served by GitHub Pages.
+# ludora-legal
 
-The source of truth is docs/PRIVACY.md in the Ludora app project; this repo only publishes it.
+Moved to https://chispapps.com/ludora/ on 25 Oct 2026. This repository only redirects the old addresses there (path, query and #hash are kept). The site source now lives in aissab-code/chispapps-site.
